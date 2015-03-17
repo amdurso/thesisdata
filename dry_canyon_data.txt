@@ -2,4 +2,4 @@ date,species,number
 2015-03-15,towhee,3
 2015-03-15,wren,3
 2015-03-14,robin,6
-2015-03-14,hawk,1
+2015-03-14,hawk,2
